@@ -1,0 +1,43 @@
+Software Engineer Intern
+
+Company: ABC Technologies
+
+Location: Phoenix, Arizona
+
+Job Type: Internship
+
+Job Description
+
+ABC Technologies is looking for a Software Engineering Intern to join our development team. The candidate should have strong programming fundamentals, problem-solving skills, and experience in software development.
+
+Required Skills
+
+• Python
+• Java
+• SQL
+• Git
+• HTML
+• CSS
+• JavaScript
+• React
+• REST API
+• Docker
+• AWS
+• Teamwork
+• Communication
+• Problem Solving
+
+Responsibilities
+
+• Develop and maintain web applications.
+• Build and test REST APIs.
+• Write efficient SQL queries.
+• Participate in code reviews.
+• Collaborate with team members.
+• Write clean and maintainable code.
+
+Preferred Qualifications
+
+• Experience with cloud platforms.
+• Knowledge of Agile software development.
+• Familiarity with version control using Git.

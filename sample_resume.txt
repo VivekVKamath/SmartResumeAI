@@ -1,0 +1,57 @@
+John Doe
+
+Email: johndoe@email.com
+
+Phone: (555) 123-4567
+
+Education
+
+Bachelor of Science in Computer Science
+
+Arizona State University
+
+Expected Graduation: May 2027
+
+Technical Skills
+
+Python
+
+Java
+
+SQL
+
+HTML
+
+CSS
+
+JavaScript
+
+React
+
+Git
+
+Machine Learning
+
+Projects
+
+Student Management System
+
+Developed a web application using Python and SQL to manage student records.
+
+Weather Forecast Application
+
+Created a weather application using JavaScript and REST APIs.
+
+Expense Tracker
+
+Built a personal expense tracker using React and Firebase.
+
+Soft Skills
+
+Communication
+
+Teamwork
+
+Problem Solving
+
+Leadership
