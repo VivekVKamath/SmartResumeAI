@@ -210,8 +210,14 @@ The baseline will be extended to include:
 
 # Author
 
-Your Name
+Your Name : Vivek Vidyadhar Kamath
 
 Master of Science in Computer Science
 
 Arizona State University
+
+## Google Colab Notebook
+
+Open and run the notebook directly in Google Colab:
+
+https://colab.research.google.com/drive/1ZLgPqz3uHPXpT63ckZf9ZhiUpSJPiMeV#scrollTo=iICF5bm_yPFd
